@@ -7,7 +7,6 @@ public class Customer {
 	private String area;
 	
 	public Customer(long cnpj, String nameBusiness, String area) {
-		super();
 		this.cnpj = cnpj;
 		this.nameBusiness = nameBusiness;
 		this.area = area;
